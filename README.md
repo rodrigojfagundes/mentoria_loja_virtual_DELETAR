@@ -1,0 +1,1 @@
+# mentoria_loja_virtual_DELETAR
