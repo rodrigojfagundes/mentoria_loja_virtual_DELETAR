@@ -1,6 +1,9 @@
 # mentoria_loja_virtual_DELETAR
 
+## 
 
+## 1 - Diagrama UML 
+<img src="https://github.com/rodrigojfagundes/mentoria_loja_virtual_DELETAR/blob/main/imagens/1-Diagrama%20UML.png" />
 
 
 ### Gerenciamento de acesso para usuário e cadastro  (Gerência o sistema – Loja)
