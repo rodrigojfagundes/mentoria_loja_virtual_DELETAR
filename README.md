@@ -1,6 +1,7 @@
 # mentoria_loja_virtual_DELETAR
 
 ## 
+## Swagger OpenAPI: https://api2.lojavirtualrodrigo.com.br/loja_virtual_mentoria/swagger-ui/index.html
 
 
 
