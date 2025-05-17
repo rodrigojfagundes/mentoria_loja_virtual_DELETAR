@@ -2,8 +2,43 @@
 
 ## 
 
+
+
 ## 1 - Diagrama UML 
 <img src="https://github.com/rodrigojfagundes/mentoria_loja_virtual_DELETAR/blob/main/imagens/1-Diagrama%20UML.png" />
+
+## 2 -  Swagger API
+<img src="https://github.com/rodrigojfagundes/mentoria_loja_virtual_DELETAR/blob/main/imagens/2-Swagger.png" />
+
+## 3 - Swagger API
+<img src="https://github.com/rodrigojfagundes/mentoria_loja_virtual_DELETAR/blob/main/imagens/3-Swagger.png" />
+
+## 4 -  Swagger API
+<img src="https://github.com/rodrigojfagundes/mentoria_loja_virtual_DELETAR/blob/main/imagens/4-Swagger.png" />
+
+## 5 - Swagger API
+<img src="https://github.com/rodrigojfagundes/mentoria_loja_virtual_DELETAR/blob/main/imagens/5-Swagger.png" />
+
+## 6 - Swagger API
+<img src="https://github.com/rodrigojfagundes/mentoria_loja_virtual_DELETAR/blob/main/imagens/6-Swagger.png" />
+
+## 7 - Swagger API
+<img src="https://github.com/rodrigojfagundes/mentoria_loja_virtual_DELETAR/blob/main/imagens/7-Swagger.png" />
+
+## 8 - Swagger API
+<img src="https://github.com/rodrigojfagundes/mentoria_loja_virtual_DELETAR/blob/main/imagens/8-Swagger.png" />
+
+## 9 - Swagger API
+<img src="https://github.com/rodrigojfagundes/mentoria_loja_virtual_DELETAR/blob/main/imagens/9-Swagger.png" />
+
+## 10 - Swagger API
+<img src="https://github.com/rodrigojfagundes/mentoria_loja_virtual_DELETAR/blob/main/imagens/10-Swagger.png" />
+
+## 11 - Swagger API
+<img src="https://github.com/rodrigojfagundes/mentoria_loja_virtual_DELETAR/blob/main/imagens/11-Swagger.png" />
+
+
+
 
 
 ### Gerenciamento de acesso para usuário e cadastro  (Gerência o sistema – Loja)
