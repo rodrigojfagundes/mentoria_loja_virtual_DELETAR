@@ -18,8 +18,8 @@
   - Receita WS
   - Melhor Envio
   - Juno API (desativada)
-  - Asaas
--PostgreSQL (9.5 e 14)
+  - Asaas  
+- PostgreSQL (9.5 e 14)
  
 
 
