@@ -4,6 +4,24 @@
 #### Swagger OpenAPI: https://api2.lojavirtualrodrigo.com.br/loja_virtual_mentoria/swagger-ui/index.html
 
 
+## Backend
+- Java 11
+- Spring Boot 2.5.6
+- Spring Data JDBC
+- Spirng Data JPA/Hibernate
+- Spring Boot Starter Web
+- Spring Security
+- JUnit
+- FlyWay DB
+- Spring Thymeleaf
+- Integração com API's
+  - Receita WS
+  - Melhor Envio
+  - Juno API (desativada)
+  - Asaas
+-PostgreSQL (9.5 e 14)
+ 
+
 
 ## 1 - Diagrama UML 
 <img src="https://github.com/rodrigojfagundes/mentoria_loja_virtual_DELETAR/blob/main/imagens/1-Diagrama%20UML.png" />
