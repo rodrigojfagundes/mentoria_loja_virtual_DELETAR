@@ -1,6 +1,7 @@
 # mentoria_loja_virtual_DELETAR
 
-## 
+#### Desenvolvimento completo do back-end de um marketplace usando Java e Spring Boot, onde é possível cadastrar lojas virtuais com seus fornecedores, estoques e produtos além de ser possível se cadastrar como cliente e realizar compras nessas lojas virtuais através de integrações com API de logística (Melhor Envio) e API de pagamentos (Asaas) e realizando deploy na Amazon AWS
+
 #### Swagger OpenAPI: https://api2.lojavirtualrodrigo.com.br/loja_virtual_mentoria/swagger-ui/index.html
 
 
@@ -24,37 +25,37 @@
 
 
 ## 1 - Diagrama UML 
-<img src="https://github.com/rodrigojfagundes/mentoria_loja_virtual_DELETAR/blob/main/imagens/1-Diagrama%20UML.png" />
+<img src="https://github.com/rodrigojfagundes/loja_virtual_mentoria/blob/main/imagens/1-Diagrama%20UML.png" />
 
 ## 2 -  Swagger API
-<img src="https://github.com/rodrigojfagundes/mentoria_loja_virtual_DELETAR/blob/main/imagens/2-Swagger.png" />
+<img src="https://github.com/rodrigojfagundes/loja_virtual_mentoria/blob/main/imagens/2-Swagger.png" />
 
 ## 3 - Swagger API
-<img src="https://github.com/rodrigojfagundes/mentoria_loja_virtual_DELETAR/blob/main/imagens/3-Swagger.png" />
+<img src="https://github.com/rodrigojfagundes/loja_virtual_mentoria/blob/main/imagens/3-Swagger.png" />
 
 ## 4 -  Swagger API
-<img src="https://github.com/rodrigojfagundes/mentoria_loja_virtual_DELETAR/blob/main/imagens/4-Swagger.png" />
+<img src="https://github.com/rodrigojfagundes/loja_virtual_mentoria/blob/main/imagens/4-Swagger.png" />
 
 ## 5 - Swagger API
-<img src="https://github.com/rodrigojfagundes/mentoria_loja_virtual_DELETAR/blob/main/imagens/5-Swagger.png" />
+<img src="https://github.com/rodrigojfagundes/loja_virtual_mentoria/blob/main/imagens/5-Swagger.png" />
 
 ## 6 - Swagger API
-<img src="https://github.com/rodrigojfagundes/mentoria_loja_virtual_DELETAR/blob/main/imagens/6-Swagger.png" />
+<img src="https://github.com/rodrigojfagundes/loja_virtual_mentoria/blob/main/imagens/6-Swagger.png" />
 
 ## 7 - Swagger API
-<img src="https://github.com/rodrigojfagundes/mentoria_loja_virtual_DELETAR/blob/main/imagens/7-Swagger.png" />
+<img src="https://github.com/rodrigojfagundes/loja_virtual_mentoria/blob/main/imagens/7-Swagger.png" />
 
 ## 8 - Swagger API
-<img src="https://github.com/rodrigojfagundes/mentoria_loja_virtual_DELETAR/blob/main/imagens/8-Swagger.png" />
+<img src="https://github.com/rodrigojfagundes/loja_virtual_mentoria/blob/main/imagens/8-Swagger.png" />
 
 ## 9 - Swagger API
-<img src="https://github.com/rodrigojfagundes/mentoria_loja_virtual_DELETAR/blob/main/imagens/9-Swagger.png" />
+<img src="https://github.com/rodrigojfagundes/loja_virtual_mentoria/blob/main/imagens/9-Swagger.png" />
 
 ## 10 - Swagger API
-<img src="https://github.com/rodrigojfagundes/mentoria_loja_virtual_DELETAR/blob/main/imagens/10-Swagger.png" />
+<img src="https://github.com/rodrigojfagundes/loja_virtual_mentoria/blob/main/imagens/10-Swagger.png" />
 
 ## 11 - Swagger API
-<img src="https://github.com/rodrigojfagundes/mentoria_loja_virtual_DELETAR/blob/main/imagens/11-Swagger.png" />
+<img src="https://github.com/rodrigojfagundes/loja_virtual_mentoria/blob/main/imagens/11-Swagger.png" />
 
 
 
