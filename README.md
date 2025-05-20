@@ -3,7 +3,7 @@
 #### Desenvolvimento completo do back-end de um marketplace usando Java e Spring Boot, onde é possível cadastrar lojas virtuais com seus fornecedores, estoques e produtos além de ser possível se cadastrar como cliente e realizar compras nessas lojas virtuais através de integrações com API de logística (Melhor Envio) e API de pagamentos (Asaas) e realizando deploy na Amazon AWS
 
 #### Swagger OpenAPI: https://api2.lojavirtualrodrigo.com.br/loja_virtual_mentoria/swagger-ui/index.html
-
+#### para estudos versão com comentarios: https://github.com/rodrigojfagundes/loja_virtual_mentoria_comentado
 
 ## Backend
 - Java 11
