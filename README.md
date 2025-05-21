@@ -9,7 +9,7 @@
 - Java 11
 - Spring Boot 2.5.6
 - Spring Data JDBC
-- Spirng Data JPA/Hibernate
+- Spring Data JPA/Hibernate
 - Spring Boot Starter Web
 - Spring Security
 - JUnit
