@@ -12,7 +12,9 @@
 - Spring Data JPA/Hibernate
 - Spring Boot Starter Web
 - Spring Security
+- Spring Boot Starter Test
 - JUnit
+- Mockito
 - FlyWay DB
 - Spring Thymeleaf
 - Integração com API's
